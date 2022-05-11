@@ -10,3 +10,5 @@
   - run: make
   - run: make run
   - Oke
+*Function:
+/../
